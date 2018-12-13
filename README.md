@@ -6,4 +6,4 @@ Light Data Bars is an prototype physical data driven installation that promotes 
 
 ![render-output](/final-output.png)
 ![prototype-output1](/prototype-output1.png)
-![prototype-output2](/prototype-output2.jpg)
+![prototype-output2](/prototype-output2.png)
